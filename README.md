@@ -1,4 +1,4 @@
-# Binance Futures Trading Bot (USDT-M Testnet)
+# Binance Futures Trading Bot
 
 A CLI-based trading bot built in Python for **Binance USDT-M Futures Testnet**.  
 The project focuses on clean structure, reproducibility, and safe order execution using the **official Binance Futures REST API**.
@@ -183,6 +183,7 @@ https://binance-docs.github.io/apidocs/futures/en/
 
 - Binance Futures Testnet
 https://testnet.binancefuture.com/
+
 
 
 
